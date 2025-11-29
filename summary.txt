@@ -1,0 +1,19 @@
+Campus Energy Consumption Summary
+================================
+Total campus consumption: 120.80 kWh
+
+Highest-consuming building: HostelA (67.50 kWh)
+
+Peak Load Details:
+ - Building : HostelA
+ - Time     : 2024-01-01 00:00:00
+ - kWh      : 15.20
+
+Daily Trend Insights:
+ - Lowest daily campus total : 120.80 kWh
+ - Highest daily campus total: 120.80 kWh
+
+Observations:
+ - You can add your own observations here based on the charts.
+ - For example, identify buildings with consistently high load or unusual peaks.
+ - Suggest potential energy-saving opportunities (like shifting load, improving insulation, etc.).
